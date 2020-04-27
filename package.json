@@ -1,0 +1,20 @@
+{
+  "name": "georgia-restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node-sass project/src/scss/ -o project/src/css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekxside/georgia-restaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dekxside/georgia-restaurant/issues"
+  },
+  "homepage": "https://github.com/dekxside/georgia-restaurant#readme"
+}
